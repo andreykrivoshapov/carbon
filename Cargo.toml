@@ -70,8 +70,8 @@ carbon-meteora-dbc-decoder = { path = "decoders/meteora-dbc-decoder", version = 
 carbon-meteora-dlmm-decoder = { path = "decoders/meteora-dlmm-decoder", version = "0.10.0" }
 carbon-meteora-pools-decoder = { path = "decoders/meteora-pools-decoder", version = "0.10.0" }
 carbon-moonshot-decoder = { path = "decoders/moonshot-decoder", version = "0.10.0" }
-carbon-mpl-core-decoder = { path = "decoders/mpl-core-decoder", version = "0.10.0" }
-carbon-mpl-token-metadata-decoder = { path = "decoders/mpl-token-metadata-decoder", version = "0.10.0" }
+# carbon-mpl-core-decoder = { path = "decoders/mpl-core-decoder", version = "0.10.0" }
+# carbon-mpl-token-metadata-decoder = { path = "decoders/mpl-token-metadata-decoder", version = "0.10.0" }
 carbon-name-service-decoder = { path = "decoders/name-service-decoder", version = "0.10.0" }
 carbon-okx-dex-decoder = { path = "decoders/okx-dex-decoder", version = "0.10.0" }
 carbon-openbook-v2-decoder = { path = "decoders/openbook-v2-decoder", version = "0.10.0" }
